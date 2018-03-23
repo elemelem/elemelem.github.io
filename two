@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+        <section>
+            <h1>개인정보</h1>
+            <table>
+                <tr>
+                    <td>소속</td>
+                    <td>인하대학교</td>
+                    <td>입학년도</td>
+                    <td>2012</td>
+                </tr>
+                <tr>
+                    <td>이름</td>
+                    <td>김현열</td>
+                    <td>학번</td>
+                    <td>12121470</td>
+                </tr>
+                <tr>
+                    <td>연락처</td>
+                    <td>010-1234-5678</td>
+                    <td>생년월일</td>
+                    <td>987654</td>
+                </tr>
+                <tr>
+                    <td>취미</td>
+                    <td>음악</td>
+                    <td>특기</td>
+                    <td>음악</td>
+                </tr>
+            </table>
+            <br><br>
+            <h1>1. 학력사항</h1>
+            <table>
+                <tr>
+                    <td>학력사항</td>
+                    <td>기간</td>
+                </tr>
+                <tr>
+                    <td>OO 고등학교</td>
+                    <td>인하 대학교</td>
+                </tr>
+            </table>
+            <br><br>
+            <h1>2. 사용언어</h1>
+            C++, JAVA, Python
+        </section>
+</body>
+</html>
