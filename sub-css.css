@@ -1,0 +1,13 @@
+        table {
+            width:100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid gray;
+        }
+        table td{
+            height:120PX;
+            font-size: 25px;
+            padding: 10px 25px;
+        }
